@@ -10,7 +10,7 @@
 > Building things, breaking them, and figuring out why.
 ```
 
-I'm a **Computer Engineering** student at **IPN ESCOM** (Group 4CM1), interested in how
+I'm a **Computer Engineering** student at **IPN ESCOM**, interested in how
 the software and systems that shape everyday life actually work under the hood —
 from hardware signals to backend architecture.
 
@@ -116,7 +116,7 @@ from hardware signals to backend architecture.
 
 - Studying digital & analog electronics at ESCOM alongside CS fundamentals
 - Learning **C/C++** and getting deeper into systems-level thinking
-- Interested in how software, hardware, and signals interact at a low level
+- Interested in how software, hardware, and signals interact
 
 <br/>
 
