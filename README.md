@@ -10,8 +10,6 @@ I'm a **Computer Engineering** student at **IPN ESCOM**, interested in how
 the software and systems that shape everyday life actually work under the hood —
 from hardware signals to backend architecture.
 
-<br/>
-
 ### 🛠 &nbsp;Stack
 
 <div align="center">
@@ -19,8 +17,6 @@ from hardware signals to backend architecture.
 <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,kotlin,html,css,tailwind,nodejs,postgres,mysql&theme=dark&perline=6" />
 
 </div>
-
-<br/>
 
 ### 📁 &nbsp;Projects
 
@@ -81,10 +77,6 @@ from hardware signals to backend architecture.
   </tr>
 </table>
 
-📡 **Electronics Lab Work** — digital logic design (Boolean simplification, NAND/NOR universal gates) and analog circuits (half-wave, full-wave, and bridge rectifiers). No repo, coursework only.
-
-<br/>
-
 ### 📈 &nbsp;GitHub Stats
 
 <div align="center">
@@ -94,7 +86,6 @@ from hardware signals to backend architecture.
 
 </div>
 
-<br/>
 
 ### 🎯 &nbsp;Currently
 
@@ -102,7 +93,6 @@ from hardware signals to backend architecture.
 - 🌱 Learning **C/C++** and getting deeper into systems-level thinking
 - ⚡ Interested in how software, hardware, and signals interact
 
-<br/>
 
 ### 📫 &nbsp;Connect
 
