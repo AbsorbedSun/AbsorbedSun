@@ -25,14 +25,13 @@ from hardware signals to backend architecture.
     <td width="50%" valign="top">
       <h4>🗓 Qualarbi &nbsp;<img src="https://img.shields.io/badge/in%20progress-1a1a3e?style=flat-square&labelColor=0f0f23&color=6e7681"/></h4>
       <p>
-        Academic schedule management system — started as a Kotlin Multiplatform app
-        with a constraint-satisfaction algorithm (CSP, backtracking, AC-3), later rebuilt
-        as a web SPA with a custom router.
+        A space to build whatever I feel like — right now that's an academic
+        schedule manager using constraint satisfaction (CSP, backtracking, AC-3).
       </p>
-      <a href="https://github.com/AbsorbedSun/Qualarbi-Web">
+      <a href="https://github.com/AbsorbedSun/Qualarbi">
         <img src="https://img.shields.io/badge/View%20Repo-1e2030?style=flat-square&logo=github&logoColor=c9d1d9"/>
-        <img src="https://img.shields.io/github/languages/top/AbsorbedSun/Qualarbi-Web?style=flat-square&labelColor=1e2030&color=6e7681"/>
-        <img src="https://img.shields.io/github/stars/AbsorbedSun/Qualarbi-Web?style=flat-square&labelColor=1e2030&color=6e7681"/>
+        <img src="https://img.shields.io/github/languages/top/AbsorbedSun/Qualarbi?style=flat-square&labelColor=1e2030&color=6e7681"/>
+        <img src="https://img.shields.io/github/stars/AbsorbedSun/Qualarbi?style=flat-square&labelColor=1e2030&color=6e7681"/>
       </a>
     </td>
     <td width="50%" valign="top">
@@ -65,8 +64,7 @@ from hardware signals to backend architecture.
     <td width="50%" valign="top">
       <h4>🧵 Drwthred</h4>
       <p>
-        <!-- Agrega aquí una línea describiendo de qué trata este proyecto -->
-        Personal project — add a short description here.
+        Web-based tool for drawing in 2.5D directly in the browser.
       </p>
       <a href="https://github.com/AbsorbedSun/Drwthred">
         <img src="https://img.shields.io/badge/View%20Repo-1e2030?style=flat-square&logo=github&logoColor=c9d1d9"/>
@@ -81,18 +79,17 @@ from hardware signals to backend architecture.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbsorbedSun&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e" />
 <img height="165" src="https://streak-stats.demolab.com/?user=AbsorbedSun&theme=dark&hide_border=true&background=0D1117&ring=6E7681&fire=6E7681&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<br/>
+<img src="https://img.shields.io/github/followers/AbsorbedSun?style=flat-square&labelColor=1e2030&color=6e7681&label=followers" />
 
 </div>
-
 
 ### 🎯 &nbsp;Currently
 
 - 🔭 Studying digital & analog electronics at ESCOM alongside CS fundamentals
 - 🌱 Learning **C/C++** and getting deeper into systems-level thinking
 - ⚡ Interested in how software, hardware, and signals interact
-
 
 ### 📫 &nbsp;Connect
 
@@ -101,6 +98,7 @@ from hardware signals to backend architecture.
 <a href="https://github.com/AbsorbedSun"><img src="https://img.shields.io/badge/GitHub-1e2030?style=flat-square&logo=github&logoColor=c9d1d9"/></a>
 <a href="mailto:garcia.ambrosio.aldo@gmail.com"><img src="https://img.shields.io/badge/Email-1e2030?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
 <a href="https://linkedin.com/in/aldo-garcia-a-bb1708408"><img src="https://img.shields.io/badge/LinkedIn-1e2030?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
+
 </div>
 
 <div align="center">
