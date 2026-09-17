@@ -6,15 +6,9 @@
 
 </div>
 
-<br/>
-
 I'm a **Computer Engineering** student at **IPN ESCOM**, interested in how
 the software and systems that shape everyday life actually work under the hood —
 from hardware signals to backend architecture.
-
-<br/>
-
----
 
 <br/>
 
@@ -22,78 +16,24 @@ from hardware signals to backend architecture.
 
 <div align="center">
 
-**Languages**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,kotlin&theme=dark" />
-
-<br/><br/>
-
-**Web & UI**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" />
-
-<br/><br/>
-
-**Backend & Data**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,kotlin,html,css,tailwind,nodejs,postgres,mysql&theme=dark&perline=6" />
 
 </div>
 
 <br/>
 
----
-
-<br/>
-
 ### 📁 &nbsp;Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗓 Qualarbi &nbsp;<img src="https://img.shields.io/badge/in%20progress-1a1a3e?style=flat-square&labelColor=0f0f23&color=6e7681"/></h4>
-      <p>
-        Academic schedule management system — started as a Kotlin Multiplatform app
-        with a constraint-satisfaction algorithm (CSP, backtracking, AC-3), later rebuilt
-        as a web SPA with a custom router. Uses HTML, CSS, JS and Tailwind.
-      </p>
-      <a href="https://github.com/AbsorbedSun/Qualarbi-Web">
-        <img src="https://img.shields.io/badge/View%20Repo-1e2030?style=flat-square&logo=github&logoColor=c9d1d9"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎮 ADGAMUS &nbsp;<img src="https://img.shields.io/badge/contributor-1a1a3e?style=flat-square&labelColor=0f0f23&color=6e7681"/></h4>
-      <p>
-        Collaborative project under the GVIM0 organization.
-        Contributed as part of the development team.
-      </p>
-      <a href="https://github.com/GVIM0">
-        <img src="https://img.shields.io/badge/View%20Org-1e2030?style=flat-square&logo=github&logoColor=c9d1d9"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏥 Hospital Management System &nbsp;<img src="https://img.shields.io/badge/completed-1a1a3e?style=flat-square&labelColor=0f0f23&color=6e7681"/></h4>
-      <p>
-        Full-stack hospital system with a Node.js/Express REST API, JWT auth,
-        and a SQL Server database (18 tables, stored procedures, triggers).
-        Built as a DB course final project at ESCOM.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📡 Electronics Lab Work</h4>
-      <p>
-        Lab work spanning digital logic design (Boolean simplification, NAND/NOR universal gates)
-        and analog circuits (half-wave, full-wave, and bridge rectifiers).
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<br/>
+<a href="https://github.com/AbsorbedSun/Qualarbi-Web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbsorbedSun&repo=Qualarbi-Web&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e" /></a>
+<a href="https://github.com/AbsorbedSun/HospitalBD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbsorbedSun&repo=HospitalBD&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e" /></a>
+<a href="https://github.com/GVIM0/Adgamus_Movil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GVIM0&repo=Adgamus_Movil&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e" /></a>
+<a href="https://github.com/AbsorbedSun/Drwthred"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbsorbedSun&repo=Drwthred&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e" /></a>
 
----
+</div>
+
+📡 **Electronics Lab Work** — digital logic design (Boolean simplification, NAND/NOR universal gates) and analog circuits (half-wave, full-wave, and bridge rectifiers). No repo, coursework only.
 
 <br/>
 
@@ -108,15 +48,11 @@ from hardware signals to backend architecture.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsorbedSun&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=AbsorbedSun&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 </div>
-
-<br/>
-
----
 
 <br/>
 
@@ -128,18 +64,14 @@ from hardware signals to backend architecture.
 
 <br/>
 
----
-
-<br/>
-
 ### 📫 &nbsp;Connect
 
 <div align="center">
 
 <!-- Reemplaza estos enlaces con tus redes reales, o borra los que no uses -->
 <a href="https://github.com/AbsorbedSun"><img src="https://img.shields.io/badge/GitHub-1e2030?style=flat-square&logo=github&logoColor=c9d1d9"/></a>
-<a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-1e2030?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-1e2030?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="mailto:garcia.ambrosio.aldo@gmail.com"><img src="https://img.shields.io/badge/Email-1e2030?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://linkedin.com/in/aldo-garcia-a-bb1708408"><img src="https://img.shields.io/badge/LinkedIn-1e2030?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
 
 </div>
 
